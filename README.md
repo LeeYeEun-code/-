@@ -103,15 +103,15 @@
     <form id="testForm">
         <div class="question">
             <input type="checkbox" id="q1" name="q1">
-            <label for="q1"> 2주 이상 우울, 신경질, 짜증 등이 느껴진다.</label>
+            <label for="q1"> 우울, 신경질, 짜증 등이 느껴진다.</label>
         </div>
         <div class="question">
             <input type="checkbox" id="q2" name="q2">
-            <label for="q2">만사가 재미가 없고 흥미가 없다.</label>
+            <label for="q2">만사 재미가 없고 흥미가 없다.</label>
         </div>
         <div class="question">
             <input type="checkbox" id="q3" name="q3">
-            <label for="q3">식욕이 없거나 폭식한다.</label>
+            <label for="q3">수면이나 식욕에 문제가 생겼다.</label>
         </div>
         <div class="question">
             <input type="checkbox" id="q4" name="q4">
@@ -123,7 +123,7 @@
         </div>
         <div class="question">
             <input type="checkbox" id="q6" name="q6">
-            <label for="q6">피곤하고 무기력하다.</label>
+            <label for="q6">피로하고 무기력하다.</label>
         </div>
         <div class="question">
             <input type="checkbox" id="q7" name="q7">
@@ -131,15 +131,15 @@
         </div>
         <div class="question">
             <input type="checkbox" id="q8" name="q8">
-            <label for="q8">쉽게 짜증나고 다른 사람과의 관계가 힘들다.</label>
+            <label for="q8">두통이나 소화불량이 자주 있다.</label>
         </div>
         <div class="question">
             <input type="checkbox" id="q9" name="q9">
-            <label for="q9">자주 머리가 아프거나 소화가 안 된다.</label>
+            <label for="q9">생각이 자꾸 부정적으로, 꼬리에 꼬리를 문다.</label>
         </div>
         <div class="question">
             <input type="checkbox" id="q10" name="q10">
-            <label for="q10">죽고 싶다는 생각이 들거나 극단적인 선택을 고려한 적이 있다.</label>
+            <label for="q10">죽고 싶다. 혹은 죽어도 괜찮을 거 같다.</label>
         </div>
         <button type="button" onclick="showResult()">확인</button>
     </form>
