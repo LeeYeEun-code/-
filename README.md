@@ -135,7 +135,7 @@
         </div>
         <div class="question">
             <input type="checkbox" id="q9" name="q9">
-            <label for="q9">생각이 자꾸 부정적으로, 꼬리에 꼬리를 문다.</label>
+            <label for="q9">생각이 부정적으로, 꼬리에 꼬리를 문다.</label>
         </div>
         <div class="question">
             <input type="checkbox" id="q10" name="q10">
