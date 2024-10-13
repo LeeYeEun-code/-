@@ -103,7 +103,7 @@
     <form id="testForm">
         <div class="question">
             <input type="checkbox" id="q1" name="q1">
-            <label for="q1">하루 중 대부분 우울, 신경질, 짜증, 공허함, 절망 등이 느껴진다.</label>
+            <label for="q1"> 2주 이상 우울, 신경질, 짜증 등이 느껴진다.</label>
         </div>
         <div class="question">
             <input type="checkbox" id="q2" name="q2">
