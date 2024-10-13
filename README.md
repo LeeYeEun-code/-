@@ -1,24 +1,27 @@
+<!DOCTYPE html>
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>심리 상태 검사</title>
     <style>
-        /* 본문에 사용할 폰트 (UhBee mysen Bold) */
+        /* 본문에 사용할 폰트 (UhBeeMysen) */
         @font-face {
-            font-family: 'UhBeeMysenBold';
-            src: url('https://drive.google.com/uc?export=view&id=1F2bRgXgB07Yu8dHroCNV2MGniPSyFJZY') format('truetype'); /* UhBee mysen Bold 폰트 경로 */
+            font-family: 'UhBeeMysen';
+            src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_five@.2.0/UhBeemysen.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
         }
 
         /* 제목에 사용할 폰트 (EF 제주돌담체) */
-        @font-face {
+a
             font-family: 'EFJejudoldam';
-            src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2210-EF@1.0/EF_jejudoldam.woff2') format('woff2'); /* EF 제주돌담체 폰트 경로 */
+            src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2210-EF@1.0/EF_jejudoldam.woff2') format('woff2');
         }
 
         /* 기본 스타일 설정 */
         body {
-            font-family: 'UhBeeMysenBold', sans-serif;
+            font-family: 'UhBeeMysen', sans-serif;
             background-image: url('https://i.postimg.cc/fbsGDc5L/IMG-2634.png');
             background-size: cover;
             background-position: center;
