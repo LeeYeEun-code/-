@@ -19,7 +19,7 @@
         /* 기본 스타일 설정 */
         body {
             font-family: 'UhBeeMysenBold', sans-serif;
-            background-image: url('https://i.postimg.cc/fbsGDc5L/IMG-2634.png');
+            background-image: url('https://i.postimg.cc/QdxvcdSh/IMG-2657.jpg');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
